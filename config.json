@@ -4,5 +4,5 @@
     "local_port":1080,
     "password":"19856311",
     "timeout":600,
-    "method":“rc4”
+    "method":"rc4"
 }
